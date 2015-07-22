@@ -1,0 +1,20 @@
+[
+{
+  "modid": "wurmtweaks",
+  "name": "WurmTweaks",
+  "description": "Adds Recipes for Wurm-Craft Ultimate Modpack",
+  "version": "0.6 Beta",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Wurmatron"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
