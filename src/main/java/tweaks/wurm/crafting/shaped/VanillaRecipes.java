@@ -14,7 +14,7 @@ import com.bioxx.tfc.api.TFCItems;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 
-public class VinillaRecipes {
+public class VanillaRecipes {
 	
 	
 	public static void addRecipes() {

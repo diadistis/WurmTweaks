@@ -41,7 +41,7 @@ import thaumcraft.api.ItemApi;
 import thaumcraft.common.config.ConfigItems;
 import tonius.simplyjetpacks.crafting.UpgradingRecipe;
 import tonius.simplyjetpacks.integration.TEItems;
-import tweaks.wurm.crafting.shaped.VinillaRecipes;
+import tweaks.wurm.crafting.shaped.VanillaRecipes;
 import tweaks.wurm.utils.IntNBT;
 import tweaks.wurm.utils.ItemNBT;
 import tweaks.wurm.utils.TE.TEMachines;
@@ -105,7 +105,7 @@ public class Shaped {
 
 	// Add Vinila Recipes
 	public static void addVinillaRecipes() {
-		VinillaRecipes.addRecipes();
+		VanillaRecipes.addRecipes();
 	}
 	
 	// Glaticraft Recipes
